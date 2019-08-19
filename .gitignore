@@ -1,0 +1,5 @@
+##ignore this file##
+/complierResult/
+/devDemo/
+.idea
+*.iml
